@@ -28,5 +28,4 @@ def main():
     cv2.imshow('Resultado final', imgprocessed)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-
-return imgprocessed
+    return imgprocessed
